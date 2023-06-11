@@ -14,6 +14,9 @@ https://stepik.org/course/82541/syllabus
 5) Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева
 https://stepik.org/course/116336/syllabus
 
+6) "Поколение Python": ООП
+https://stepik.org/course/98974/syllabus
+
 """ Упражнение
 
 """
