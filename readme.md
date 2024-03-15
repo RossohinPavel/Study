@@ -17,6 +17,12 @@ https://stepik.org/course/116336/syllabus
 6) "Поколение Python": ООП
 https://stepik.org/course/98974/syllabus
 
+7) Асинхронный Python
+https://stepik.org/course/170777/syllabus
+
+8) Добрый, добрый Django с Сергеем Балакиревым
+https://stepik.org/course/183363/syllabus
+
 """ Упражнение
 
 """
